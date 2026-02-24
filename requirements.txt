@@ -1,3 +1,4 @@
-aiogram==3.0.0
-environs==9.5.0
-cachetools==5.3.0
+aiogram==3.17.0
+environs==11.3.0
+cachetools==5.3.1
+python-dotenv==1.0.1
